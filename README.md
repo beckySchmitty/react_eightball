@@ -2,6 +2,8 @@
 
 I was tasked with creating a magic eigth ball that chooses a random message when it is clicked on. When clicked it should also change the background color of the ball. Another requirement was to have the EightBall component accept a single property, answers, which is an array of objects, with each object having a key for msg and color.
 
+I also added a restart feature. 
+
 
 ### `npm start`
 
