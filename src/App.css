@@ -11,3 +11,10 @@
   background-color: black;
   font-weight: bold;
 }
+
+.EightBall-reset-btn {
+margin: 20px;
+background-color: rgb(76, 143, 76);
+border-radius: 10%;
+color: white;
+}
